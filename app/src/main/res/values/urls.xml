@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 域名 -->
+    <string name="domain">http://apicloud.mob.com</string>
+
+    <!-- URL -->
+    <string name="url_weather">/v1/weather/query</string>
+
+    <!-- 域名 -->
+    <!--<string name="domain">http://restapi.amap.com</string>-->
+
+    <!-- URL -->
+    <string name="url_geo">/v3/geocode/regeo</string>
+</resources>
